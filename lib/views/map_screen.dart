@@ -45,12 +45,7 @@ class _MapScreenState extends State<MapScreen> {
     final pos = locationCtrl.currentPosition;
 
     if (pos != null) {
-      mapController.move(
-        pos,
-        mapController.camera.zoom,
-        animated: true,
-        source: MapEventSource.custom,
-      );
+      mapController.move(pos, mapController.camera.zoom);
     } else {
       ScaffoldMessenger.of(
         context,
