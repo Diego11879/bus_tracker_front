@@ -13,15 +13,18 @@
 
 ## 📸 Capturas
 
-> *(Podés agregar capturas de pantalla acá si querés)*
+![WhatsApp Image 2025-04-23 at 23 33 17](https://github.com/user-attachments/assets/a3722e4c-cd90-4fa7-8937-182d1ac7097e)
+![WhatsApp Image 2025-04-23 at 23 19 18](https://github.com/user-attachments/assets/0aa59290-bef1-4e88-9b84-eb19222f09b8)
+
+
 
 ## 🛠️ Tecnologías utilizadas
 
 - [Flutter](https://flutter.dev/)
 - [flutter_map](https://pub.dev/packages/flutter_map) (v8.1.1)
-- [latlong2](https://pub.dev/packages/latlong2)
-- [geolocator](https://pub.dev/packages/geolocator)
-- [provider](https://pub.dev/packages/provider)
+- [latlong2](https://pub.dev/packages/latlong2) (v0.9.0)
+- [geolocator](https://pub.dev/packages/geolocator) (v10.1.0)
+- [provider](https://pub.dev/packages/provider) (v6.0.0)
 
 ## 🧱 Estructura del proyecto
 
